@@ -1,19 +1,4 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 0ef74778e9b344dba38f75b63b38a781 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Cruz, Rodolfo Franco P.    | DATE PERFORMED:        |          |
-|                                  | 29/08/2024             |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | 29/08/2024             |          |
-+----------------------------------+------------------------+----------+
-
+![image](https://github.com/user-attachments/assets/88d4f04f-19fb-4e2e-a2ce-5b9e81195adc)
 # SYSADM1 -- Managing Services in Windows
 
 # Requirement: 
