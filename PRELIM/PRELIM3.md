@@ -1,19 +1,4 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| d55cbb651c8b41a99c6e4857c4357598 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: CRUZ, RODOLFO FRANCO P.    | DATE PERFORMED:        |          |
-|                                  | 09/12/2024             |          |
-+----------------------------------+------------------------+----------+
-| Section: SYSADM IDC2             | DATE SUBMITTED:        |          |
-|                                  | 09/12/2024             |          |
-+----------------------------------+------------------------+----------+
-
+![image](https://github.com/user-attachments/assets/22f0850b-47ca-44c7-b4be-4a47374795e4)
 # SYSADM1 -- Managing Services in Linux
 
 # Requirement: 
