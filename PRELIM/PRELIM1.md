@@ -1,19 +1,4 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 91676956811742a4a9f979c39aaf7930 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Cruz, Rodolfo Franco P.    | DATE PERFORMED:        |          |
-|                                  | 08/29/2024             |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | 08/29/2024             |          |
-+----------------------------------+------------------------+----------+
-
+![image](https://github.com/user-attachments/assets/c78b024c-7906-4e34-9a48-009f0aab2873)
 # SYSADM1 -- Physical Infrastructure
 
 # Instructions:  {#instructions .list-paragraph}
