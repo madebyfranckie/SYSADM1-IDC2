@@ -1,19 +1,5 @@
-+-----------------------+-----------------------+-----------------------+
-| ![](vertopal_3        |                       |                       |
-| 96b0148d4b74b9e9fa2df |                       |                       |
-| ecd6b7e359/media/imag |                       |                       |
-| e1.png){width="2.4in" |                       |                       |
-| height="0.5875in"}    |                       |                       |
-|                       |                       |                       |
-| SCHOOL OF INFORMATION |                       |                       |
-| AND TECHNOLOGY        |                       |                       |
-+=======================+=======================+=======================+
-| > NAME: CRUZ, RODOLFO | > DATE PERFORMED:     | /50                   |
-| > FRANCO P.           | > 14/11/2024          |                       |
-+-----------------------+-----------------------+-----------------------+
-| > Section: IDC2       | > DATE SUBMITTED:     |                       |
-|                       | > 14/11/2024          |                       |
-+-----------------------+-----------------------+-----------------------+
+![image](https://github.com/user-attachments/assets/bd408f09-19d5-49c2-88af-a251791e5f0a)
+
 
 SYSADM1 -- Kerberos Lab Activity: A step-by-step Guide
 
